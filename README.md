@@ -16,22 +16,15 @@ It also includes a Director class for reusable construction sequences and a Main
 
 Project Structure
 
-src/    
-└── builder/
-
-    ├── Car.java
-
-    ├── CarBuilder.java
-    
-    ├── BaseCarBuilder.java
-    
-    ├── SportsCarBuilder.java
-    
-    ├── FamilyCarBuilder.java
-    
-    ├── Director.java
-    
-    └── Main.java
+src/
+|_ builder/
+    |- Car.java
+    |- CarBuilder.java
+    |- BaseCarBuilder.java
+    |- SportsCarBuilder.java
+    |- FamilyCarBuilder.java
+    |- Director.java
+    |_ Main.java
 
 
 Main Components
