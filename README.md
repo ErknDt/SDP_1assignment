@@ -16,7 +16,7 @@ It also includes a Director class for reusable construction sequences and a Main
 
 Project Structure
 
-src/
+src/    
 └── builder/
     ├── Car.java
     ├── CarBuilder.java
