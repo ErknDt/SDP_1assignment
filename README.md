@@ -167,12 +167,6 @@ Car{type=FAMILY, engine='2.5L Hybrid', seats=7, transmission='CVT', gps=false, s
 Custom sports car:
 Car{type=SPORTS, engine='V6 3.0L Twin Turbo', seats=2, transmission='7-speed Automatic', gps=true, sunroof=false}
 
-Technologies
+Technologies:
 
-Java 17
-
-IntelliJ IDEA
-
-Git
-
-GitHub
+Java 17, IntelliJ IDEA, Git, GitHub
