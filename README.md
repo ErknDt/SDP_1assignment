@@ -14,7 +14,7 @@ FamilyCarBuilder
 
 It also includes a Director class for reusable construction sequences and a Main class that demonstrates how the pattern works.
 
-Project Structure
+Project Structure:
 
 src/                                                                                                                                                              
     builder/                                                                                                                                                       
